@@ -1,0 +1,218 @@
+
+.subheader{
+    min-height: 1100px;
+    min-width: 800px;
+    background: #C0CAEE;
+}
+
+.fon1{
+    width: 370px;
+    height: 430px;
+    margin-top: 65px;
+    background: #FF8753;
+    box-shadow: 0px 10px 50px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+}
+.fon2{
+    width: 630px;
+    height: 430px;
+    margin-top: 65px;
+    background: #F7ECEC;
+    box-shadow: 0px 4px 50px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+}
+.text1{
+    padding-top: 130px;
+    padding-left: 42px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 44px;
+    color: #000000;
+}
+.text12{
+    
+    padding-top: 55px;
+    padding-left: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    letter-spacing: 0.18em;
+    color: #000000;
+}
+.text2{
+    padding-top: 6px;
+    padding-left: 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 78px;
+    color: #FF8753;
+
+
+}
+.line{
+
+    margin: 0 auto;
+    width: 600px;
+    height: 3px;
+    background-color:  #0A0909;
+}
+.line1{
+    margin: 0 auto;
+    width: 338px;
+    height: 3px;
+    background-color:  #0A0909;
+}
+.line3{
+    margin: 0 auto;
+    width: 600px;
+    height: 3px;
+    background-color:  #0A0909;
+   
+}
+.text22{
+    padding-top: 20px;
+    padding-left: 14px;
+    padding-right: 36px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 30px;
+    color: #000000;
+}
+.fon3{
+    width: 370px;
+    height: 430px;
+
+    margin-top: 122px;
+    background: #F7ECEC;
+    box-shadow: 0px 5px 43px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+}
+.fon4{
+
+    margin-top: 122px;
+    margin-bottom: 50px;
+    width: 630px;
+    height: 430px;
+    background: #F7ECEC;
+    box-shadow: 0px 4px 50px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+}
+.item1{
+    padding-left: 540px;
+    padding-top: 35px;
+    width: 79px;
+    height: 79px;
+    left: 1209px;
+    top: 499px;
+}
+.item2{
+    padding-left: 281px;
+    padding-top: 48px;
+    width: 80px;
+    height: 80px;
+    left: 416px;
+    top: 1027px;
+}
+.item3{
+    padding-left: 540px;
+    padding-top: 13px;
+    width: 80px;
+    height: 80px;
+    left: 1205px;
+    top: 1017px;
+}
+.text3{
+    padding-left: 32px;
+ 
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 78px;
+    color: #FF8753;
+}
+.text32{
+    padding-top: 10px;
+    padding-left: 10px;
+
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    color: #000000;
+}
+.text4{
+    padding-left: 30px;
+  
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 78px;  
+    color: #FF8753;
+}
+.text42{
+    padding-top: 16px;
+    padding-left: 23px;
+
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+    
+}
+.promo{
+    min-height: 230px;
+    min-width: 800px;
+    background: #FCBFBF;
+    
+
+}
+.promo_header{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 84px;
+    color: #000000;
+}
+.line_line{
+    width: 1167.01px;
+    height: 3px;
+    background-color:  #0A0909;
+    margin: 0 auto;
+}
+.waiting_wrapper{
+    margin-top: 30px;
+}
+.waiting_item{
+    display: inline-block;
+    margin-left: 27px;
+    width: 340px;
+    vertical-align: top;
+    text-align: center;
+}
+.subheader_phone{
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 29px;
+    color: #000000;
+}
+.waiting_item{
+    padding-top: 15px;
+}
